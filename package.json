@@ -1,0 +1,17 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^2.2.4",
+    "typescript": "^2.0.3",
+    "webpack": "^2.1.0-beta.25"
+  },
+  "dependencies": {
+    "@types/react": "^0.14.37",
+    "react": "^15.3.2"
+  }
+}
